@@ -1,6 +1,6 @@
 const model = document.createElement('div');
 model.id='modal';
-document.body.appendChild(model);
+document.body.appendChild(model);``
 
 const images = document.querySelectorAll('.img');
 images.forEach(image=>{
